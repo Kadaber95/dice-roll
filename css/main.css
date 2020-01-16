@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(94, 2, 25);
+    text-align: center;
+}
+h1{
+font-size: 3em;
+color: lightskyblue;
+text-align: center;
+}
+
+button{
+    font-size: 1em;
+    background-color: rgb(245, 220, 111);
+    border-radius: 0.2em;
+    margin: 1em;
+    
+}
+
+.dice{
+     width: 8em;
+     background-color: lightyellow;
+     align-content: center;
+     margin: 2em;
+     border-radius: 1em;
+}
+.dice img{
+    height: 8em;
+}
