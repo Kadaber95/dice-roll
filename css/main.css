@@ -1,28 +1,40 @@
 body{
-    background-color: rgb(94, 2, 25);
-    text-align: center;
+    background-color: rgb(238, 173, 88);
+   text-align: center;
 }
 h1{
 font-size: 3em;
-color: lightskyblue;
-text-align: center;
+color: rgb(5, 71, 112);
+
 }
 
 button{
     font-size: 1em;
-    background-color: rgb(245, 220, 111);
+    background-color: rgb(241, 50, 82);
     border-radius: 0.2em;
     margin: 1em;
+    border-color: black;
     
 }
 
 .dice{
-     width: 8em;
+     width: 10em;
      background-color: lightyellow;
      align-content: center;
-     margin: 2em;
+    
      border-radius: 1em;
 }
 .dice img{
-    height: 8em;
+    height: 10em;
+
+}
+
+.number{
+    margin: 2em;
+    font-size: 2em;
+    color: bisque;
+}
+.rolled{
+    color: blanchedalmond;
+    font-size: 2em;
 }
